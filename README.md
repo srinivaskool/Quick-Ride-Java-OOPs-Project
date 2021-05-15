@@ -32,20 +32,13 @@ Clone the repository and upload to `eclipse` and run the `WelcomePage.java`. Thi
 
 ## Images of GUI
 
-
 <p align="center">
   <img  src="img\image1.png" > 
-  
 </p>
-
-  <br/>
-
+<br/>
 <p align="center">
   <img  src="img\image2.png" > 
-  
 </p>
-
-
 
 #### [Back To The Top](#Quick-Ride-Java-OOPs-Project)
 
@@ -127,8 +120,9 @@ Quick-Ride-Java-OOPs-Project
 
 ## References
 
-- [Keras](https://keras.io/)
-- [OpenCV](http://docs.opencv.org/)
+- [Java](https://www.java.com/en/)
+- [Eclipse](https://www.eclipse.org/)
+- [MySQL](https://www.mysql.com/)
 
 ---
 
